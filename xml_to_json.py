@@ -1,3 +1,4 @@
+#inspired by http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/
 # coding=utf-8
 import pyspark.sql.types as pst
 from pyspark.sql import Row
